@@ -1,5 +1,3 @@
-YouTube Video Downloader
-Introduction
 Hi everyone, I'm Bluklu, and I built this YouTube Video Downloader app to make downloading your favorite YouTube videos simple and easy. The app allows you to download videos in various qualities and save them to your preferred folder.
 
 Feel free to use this app to download your favorite content quickly!
