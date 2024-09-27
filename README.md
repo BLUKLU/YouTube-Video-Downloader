@@ -15,7 +15,7 @@ Features
 How to Use the App
 
 Step 1: Download the App
-You can download the app by navigating to the releases section on this repository or by downloading the file directly from the `dist` folder.
+You can download the app by navigating to the releases section on this repository.
 
 Step 2: Run the App
 After downloading, simply open the app. You don't need Python installed to run it.
